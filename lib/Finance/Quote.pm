@@ -70,6 +70,7 @@ use vars qw/@ISA @EXPORT @EXPORT_OK @EXPORT_TAGS
     BSEIndia
     BorsaItaliana
     Bourso
+    BrightStart
     BVB
     CSE
     Comdirect
@@ -1714,6 +1715,7 @@ http://www.gnucash.org/
   Finance::Quote::BorsaItaliana,
   Finance::Quote::BSEIndia,
   Finance::Quote::Bourso,
+  Finance::Quote::BrightStart,
   Finance::Quote::BVB,
   Finance::Quote::CSE,
   Finance::Quote::Comdirect,

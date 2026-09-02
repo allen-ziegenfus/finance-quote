@@ -1,4 +1,9 @@
 {{$NEXT}}
+	* New module, BrightStart.pm. Fetches daily unit values for the portfolios
+	  of the Illinois Bright Start Direct-Sold College Savings Program from the
+	  plan's public price and performance page. No account or API key needed.
+	  Symbols are portfolio names rather than tickers, and a single request
+	  returns every portfolio.
 
 1.71      2026-08-30 10:48:34-07:00 America/Los_Angeles
 	* NZX.pm - Fixed JSON mapping - Issue #586
